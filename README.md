@@ -24,8 +24,17 @@ React</br>
 Redux
 
 <h2>🌎 &nbsp;Where to find me</h2>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martintribuziodev/)](https://www.linkedin.com/in/martintribuziodev)
+
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martintribuzio18@gmail.com)](mailto:martintribuzio18@gmail.com)
+
+
+![Martintribuzio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martintribuzio&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Martintribuzio&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
 
 <!--
 **Martintribuzio/Martintribuzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
